@@ -1,6 +1,5 @@
 import processing.video.*;
 
-PGraphics pg;
 Movie originalVid;
 PImage averageGrayscaleImg;
 PImage lumaGrayscaleImg;
